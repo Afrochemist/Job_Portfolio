@@ -11,7 +11,7 @@ This repository contains projects that show prospective employers my work as a d
 
 - Stock Analysis with Banks
  
-##Healthcare
+## Healthcare
 
 - Breast Cancer Detectioon with Machien Learning
 
