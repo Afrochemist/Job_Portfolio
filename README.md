@@ -13,7 +13,7 @@ This repository contains projects that show prospective employers my work as a d
  
 ## Healthcare
 
-- Breast Cancer Detectioon with Machien Learning
+- Breast Cancer Detection with Machien Learning. # Just noticed a little typo in yout README.  Nice portfolio, by the way!
 
 - Diabetes Onset Detection using Grid Search
 
