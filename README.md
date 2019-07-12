@@ -18,3 +18,14 @@ This repository contains projects that show prospective employers my work as a d
 - Diabetes Onset Detection using Grid Search
 
 - Heart Disease Prediction with Neural Networks
+
+
+## __R__
+
+## Neural_Networks
+
+- Churn Rate in Keras
+
+- Graduation Rate in Keras
+
+## Text Mining
